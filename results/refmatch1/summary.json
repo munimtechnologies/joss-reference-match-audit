@@ -1,0 +1,224 @@
+{
+ "works_fetched": 3935,
+ "joss_works": 3787,
+ "fetch_complete": true,
+ "joss_works_with_refs": 3776,
+ "refs": 54574,
+ "refs_with_doi": 41114,
+ "asserted_by": {
+  "publisher": 39970,
+  "crossref": 1144
+ },
+ "crossref_asserted": 1144,
+ "crossref_asserted_targets": 961,
+ "target_status": {
+  "200": 961
+ },
+ "targets_ok": 961,
+ "judged": 1142,
+ "suspects": 34,
+ "plausible": 1108,
+ "suspect_rate": 0.0297723292469352,
+ "strict_suspects": 9,
+ "strict_rate": 0.00788091068301226,
+ "verdicts": {
+  "suspect": 34,
+  "plausible": 1108,
+  "no_title": 2
+ },
+ "code_host_judged": 59,
+ "code_host_suspect_rate": 0.15254237288135594,
+ "other_judged": 1083,
+ "other_suspect_rate": 0.023084025854108958,
+ "suspects_with_url": 18,
+ "era_rates": {
+  "2016-2018": {
+   "pool": 1766,
+   "matched": 333,
+   "rate": 0.18856172140430352
+  },
+  "2019-2020": {
+   "pool": 2376,
+   "matched": 200,
+   "rate": 0.08417508417508418
+  },
+  "2021-2023": {
+   "pool": 5012,
+   "matched": 385,
+   "rate": 0.07681564245810056
+  },
+  "2024-2026": {
+   "pool": 5450,
+   "matched": 226,
+   "rate": 0.04146788990825688
+  }
+ },
+ "fix_date": "2026-01-29",
+ "pool_after_fix": 1678,
+ "suspects_after_fix": 0,
+ "rate_after_fix": 0.0,
+ "pool_before_fix": 12926,
+ "suspects_before_fix": 34,
+ "rate_before_fix": 0.0026303574191551913,
+ "crossref_asserted_after_fix": 93,
+ "top_magnets": [
+  [
+   "10.1038/s41592-020-0772-5",
+   4
+  ],
+  [
+   "10.1016/b978-012387582-2/50003-4",
+   2
+  ],
+  [
+   "10.12968/nuwa.2016.25.26",
+   1
+  ],
+  [
+   "10.9790/1959-0504040105",
+   1
+  ],
+  [
+   "10.4172/2161-0673.1000162",
+   1
+  ],
+  [
+   "10.3390/ma10101162",
+   1
+  ],
+  [
+   "10.32614/cran.package.shinytree",
+   1
+  ],
+  [
+   "10.1016/b978-0-12-416743-8.00005-1",
+   1
+  ],
+  [
+   "10.1111/sjos.12341",
+   1
+  ],
+  [
+   "10.1007/978-0-387-21706-2",
+   1
+  ],
+  [
+   "10.1017/cbo9781139194648",
+   1
+  ],
+  [
+   "10.1016/0022-3697(57)90013-6",
+   1
+  ],
+  [
+   "10.1093/bioinformatics/btp352",
+   1
+  ],
+  [
+   "10.21105/joss.01008",
+   1
+  ],
+  [
+   "10.1186/s40168-017-0318-y",
+   1
+  ]
+ ],
+ "suspect_targets_distinct": 30,
+ "suspect_target_types": {
+  "journal-article": 23,
+  "dataset": 1,
+  "book-chapter": 4,
+  "book": 2,
+  "monograph": 3,
+  "edited-book": 1
+ },
+ "suspect_target_publishers": [
+  [
+   "Springer Science and Business Media LLC",
+   6
+  ],
+  [
+   "Elsevier",
+   4
+  ],
+  [
+   "Cambridge University Press",
+   2
+  ],
+  [
+   "Elsevier BV",
+   2
+  ],
+  [
+   "Oxford University Press (OUP)",
+   2
+  ],
+  [
+   "Oxford University Press",
+   2
+  ],
+  [
+   "Mark Allen Group",
+   1
+  ],
+  [
+   "IOSR Journals",
+   1
+  ],
+  [
+   "OMICS Publishing Group",
+   1
+  ],
+  [
+   "MDPI AG",
+   1
+  ],
+  [
+   "The R Foundation",
+   1
+  ],
+  [
+   "Wiley",
+   1
+  ],
+  [
+   "Springer New York",
+   1
+  ],
+  [
+   "The Open Journal",
+   1
+  ],
+  [
+   "Foundation for Open Access Statistic",
+   1
+  ]
+ ],
+ "search_checked": 34,
+ "search_same_as_link": 15,
+ "publisher_sample": 400,
+ "publisher_sample_status": {
+  "200": 399,
+  "404": 1
+ },
+ "publisher_judged": 399,
+ "publisher_suspects": 14,
+ "publisher_suspect_rate": 0.03508771929824561,
+ "predictions": {
+  "G": true,
+  "P1": true,
+  "P2": true,
+  "P3": false,
+  "P4": true,
+  "P5": "hand-graded (grade_suspects40.csv)",
+  "P6": "hand-graded (grade_plausible30.csv)",
+  "P7": true,
+  "P8": true,
+  "P9": false
+ },
+ "http": {
+  "http_200": 1435,
+  "http_404": 1
+ },
+ "elapsed_s": 435.3
+}
